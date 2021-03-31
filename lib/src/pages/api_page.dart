@@ -96,12 +96,6 @@ class _ApiPageState extends State<ApiPage> {
                 ),
                 ),
                 Text(
-            'Edad: ' + user.name + ' ' + user.last,
-            style: TextStyle(
-                fontWeight: FontWeight.bold,
-                fontSize: 20,
-                color: Colors.purpleAccent,
-                decorationStyle: TextDecorationStyle.double,
                 ),
           ),
         ],
