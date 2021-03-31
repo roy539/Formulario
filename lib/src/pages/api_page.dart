@@ -95,9 +95,6 @@ class _ApiPageState extends State<ApiPage> {
                 color: Colors.cyan
                 ),
                 ),
-                Text(
-                ),
-          ),
         ],
       )));
     }
